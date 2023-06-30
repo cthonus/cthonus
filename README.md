@@ -1,9 +1,9 @@
 ### About me 🧑‍💻
 
-Hi, I'm Cédric, a software developer who loves to create cool stuff and also likes to quibble in operating systems.<br />
-Alongside my work, I am also a student specializing in computer systems and network security.
-I also have database knowledge, some agile methodologies and analysis.
+Hi, I'm Cédric, a software developer who loves creating cool stuff and enjoys delving into operating systems.
 
-I mainly work with Java and its frameworks, but also with ReactJS, Laravel and others.
+In addition to my work, I'm also a student specializing in computer systems and network security. I have knowledge in databases, agile methodologies, and analysis.
 
-In my free time, I enjoy exploring the intricacies of Linux systems as well as tinkering with Arduino and Raspberry Pi.
+I primarily work with Java and its frameworks, but I'm also experienced with ReactJS, Laravel, and other technologies.
+
+During my free time, I enjoy exploring the intricacies of Linux systems and tinkering with Arduino and Raspberry Pi.
